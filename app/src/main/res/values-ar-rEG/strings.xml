@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_folders">المجلدات</string>
+    <string name="nav_gallery">المعرض</string>
+    <string name="nav_music">الأغاني</string>
+    <string name="nav_browser">المتصفح</string>
+    <string name="permissions_alert_dialog_title">الاذن</string>
+    <string name="permission_alert_dialog_body">يلزم إذن إدارة جميع الملفات للوصول إلى جميع الملفات والمجلدات بشكل صحيح ، يرجى الضغط على زر السماح للسماح بالإذن</string>
+    <string name="decline">رفض</string>
+    <string name="allow">سماح</string>
+    <string name="folders_files_quantity">عنصر</string>
+</resources>

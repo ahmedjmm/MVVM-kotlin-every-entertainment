@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">every entertainment</string>
+
+    <!-- bottom navigation strings -->
+    <string name="nav_folders">Folders</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_music">Music</string>
+    <string name="nav_browser">Browser</string>
+
+    <!-- permission alert dialog strings -->
+    <string name="permissions_alert_dialog_title">Permissions</string>
+    <string name="permission_alert_dialog_body">MANAGE ALL FILES PERMISSION  needed to access all          files and folders properly, please press Allow button to allow permission</string>
+    <string name="decline">Decline</string>
+    <string name="allow">Allow</string>
+
+    <!-- folders and files list item details -->
+    <string name="folders_files_quantity">items</string>
+    <string name="move_to">Move to</string>
+    <string name="copy_to">Copy to</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="hide">Hide</string>
+    <string name="select_all">Select all</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="create_folder">Create folder</string>
+    <string name="share">Share</string>
+    <string name="info">Info</string>
+</resources>
